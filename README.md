@@ -1,9 +1,10 @@
 # PYWORLD - Python based Hello-World Microservice
 
 Source code has a basic Python code that exposes service endpoint (port:3000) with 'Hello World' page,
-    Python Requirements:
-        - flask
-        - flask-restful
+
+Python Requirements:
+- flask
+- flask-restful
 
 ## How to Deploy
 
