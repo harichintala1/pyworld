@@ -37,7 +37,7 @@ You could also test this deployment by sourcing local docker image, by running b
 
 To Cleanup:  
 ```bash
-kubectl delete deployments,svc al-helloworld
+kubectl delete deployments,svc pyworld
 ```
 
 ## Requirements
